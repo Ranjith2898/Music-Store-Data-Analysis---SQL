@@ -1,17 +1,17 @@
 # Music Store Analysis 🎵💽
 
-📌 Overview
+## 📌 Overview
 
 This project focuses on building and analyzing a Music Store Database using MySQL. It efficiently manages information related to customers, employees, invoices, tracks, albums, artists, and more. The repository includes SQL scripts for database creation and a variety of queries for different levels of data analysis.
 
-1️⃣ Schema Diagram (schema_diagram.png)
+## 1️⃣ Schema Diagram (schema_diagram.png)
 
 📌 Description: A visual representation of the database schema.
 
 📌 Purpose: Helps in understanding how different entities (employees, customers, invoices, tracks, albums, and 
      artists) are interconnected.
 
-2️⃣ Database Creation (Database with tables.sql)
+## 2️⃣ Database Creation (Database with tables.sql)
 
 📌 Description: SQL script for setting up the Music_Store database and its tables.
 
@@ -21,7 +21,7 @@ This project focuses on building and analyzing a Music Store Database using MySQ
   
 📌 Purpose: Establishes the foundational structure of the database.
 
-📝 SQL Queries for Data Analysis
+## 📝 SQL Queries for Data Analysis
 
 3️⃣ Basic Queries (Easy level queries.sql)
 
@@ -63,7 +63,7 @@ This project focuses on building and analyzing a Music Store Database using MySQ
 
 ✅ Top Customer by Country: Identifies the top-spending customer in each country.
 
-📊 Key Insights & Business Impact
+## 📊 Key Insights & Business Impact
 
 🎯 Identifies the best-performing artists and genres across different countries.
 
